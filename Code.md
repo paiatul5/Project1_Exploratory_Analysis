@@ -1,6 +1,6 @@
 # Project1_Exploratory_Analysis
-makeCacheMatrix <- function(x = matrix()) {
-	inv<-NULL
+## makeCacheMatrix <- function(x = matrix()) {
+inv<-NULL
  	set <-function(y){
       	mat <<- y
       	inv <<- NULL
